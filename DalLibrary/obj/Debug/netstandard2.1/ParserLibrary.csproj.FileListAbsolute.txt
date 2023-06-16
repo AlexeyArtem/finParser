@@ -1,0 +1,10 @@
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\ParserLibrary.deps.json
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\ParserLibrary.dll
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\ParserLibrary.pdb
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.AssemblyInfoInputs.cache
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.AssemblyInfo.cs
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.csproj.CoreCompileInputs.cache
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.dll
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.pdb
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\ParserLibrary.csproj.AssemblyReference.cache

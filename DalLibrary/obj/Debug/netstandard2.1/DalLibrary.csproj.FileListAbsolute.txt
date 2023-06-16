@@ -1,0 +1,15 @@
+D:\Данные Google Drive\Парсер финансовых новостей\finParser\DalLibrary\obj\Debug\netstandard2.1\DalLibrary.csproj.AssemblyReference.cache
+D:\Данные Google Drive\Парсер финансовых новостей\finParser\DalLibrary\obj\Debug\netstandard2.1\DalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Данные Google Drive\Парсер финансовых новостей\finParser\DalLibrary\obj\Debug\netstandard2.1\DalLibrary.AssemblyInfoInputs.cache
+D:\Данные Google Drive\Парсер финансовых новостей\finParser\DalLibrary\obj\Debug\netstandard2.1\DalLibrary.AssemblyInfo.cs
+D:\Данные Google Drive\Парсер финансовых новостей\finParser\DalLibrary\obj\Debug\netstandard2.1\DalLibrary.csproj.CoreCompileInputs.cache
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\DALlibrary.deps.json
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\DALlibrary.dll
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\bin\Debug\netstandard2.1\DALlibrary.pdb
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.AssemblyInfoInputs.cache
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.AssemblyInfo.cs
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.csproj.CoreCompileInputs.cache
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.dll
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.pdb
+D:\Данные Google Drive\Автоматизация мониторинга информации в сети Интернет\finParser\DalLibrary\obj\Debug\netstandard2.1\DALlibrary.csproj.AssemblyReference.cache
